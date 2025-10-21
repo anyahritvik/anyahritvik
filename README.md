@@ -32,7 +32,7 @@ I'm on a journey to become more creative every single day. Based in 🇮🇳 **I
 
 <div align="center">
 
-[📧 Email](mailto:anyahritvik@gmail.com) • [💼 GitHub](https://github.com/anyahritvik) • [🌐 Inworld Account](secondlife:///app/agent/5dc4a3e7-2bfe-4e67-9578-47214f879985/about)
+[📧 Email](mailto:anyahritvik@gmail.com) • [💼 GitHub](https://github.com/anyahritvik) •<a href = "secondlife:///app/agent/5dc4a3e7-2bfe-4e67-9578-47214f879985/about">🌐 Inworld</a>
 
 </div>
 
