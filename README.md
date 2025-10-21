@@ -8,7 +8,7 @@
 <div>
 <h2>On a journey to be more and more creative each day </h2>.<br>
 <img src=https://github.com/ritartha/ritartha/blob/main/icons8-place-marker.gif width="21" /> From Second Life<br>
-  <img src="https://github.com/ritartha/ritartha/blob/main/icons8-gmail-logo.gif" width="21" /> ⇨ <a href='https://mail.google.com/mail/u/0/#inbox'>𝚛𝚒𝚝𝚊𝚛𝚝𝚑𝚊@𝚐𝚖𝚊𝚒𝚕.𝚌𝚘𝚖</a> <br>
+  <img src="https://github.com/ritartha/ritartha/blob/main/icons8-gmail-logo.gif" width="21" /> ⇨ <a href='https://mail.google.com/mail/u/0/#inbox'>anyahritvik@gmail.com</a> <br>
 
 ## 🇮🇳🇮🇳🇮🇳🇮🇳🇮🇳
 </div>
