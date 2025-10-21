@@ -12,15 +12,11 @@ I'm on a journey to become more creative every single day. Based in 🇮🇳 **I
 
 ---
 
-## 💻 Technical Skills
+## 💻 Second Life Profile
 
 <div align="center">
 
-| Category | Technologies |
-|----------|---------------|
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white) | LSL Scripting
-| **Frontend** | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) |
-| **Hardware** | ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22082?style=for-the-badge&logo=raspberry-pi&logoColor=white) |
+
 
 </div>
 
