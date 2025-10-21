@@ -22,10 +22,6 @@ I'm on a journey to become more creative every single day. Based in 🇮🇳 **I
 
 
 
-## 📊 GitHub Statistics
-
-![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=anyahritvik.id)
-
 ---
 
 ## 🤝 Let's Connect
