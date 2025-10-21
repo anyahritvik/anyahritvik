@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Rey Dreamer
 
-**Second Life Resident | Mesh Creater & Scriptor **
+Second Life Resident | Mesh Creater & Scriptor 
 
 ---
 
