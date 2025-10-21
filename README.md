@@ -16,7 +16,7 @@ I'm on a journey to become more creative every single day. Based in 🇮🇳 **I
 
 <div align="center">
 
-
+<img src="https://github.com/anyahritvik/anyahritvik/blob/main/10a8271e9412e2a1ce83ab3341d1c007.png">
 
 </div>
 
