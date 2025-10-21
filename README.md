@@ -1,51 +1,58 @@
+# 👋 Hello, I'm Rey Dreamer
 
+> **Creative Developer | Python Enthusiast | IoT & Embedded Systems Specialist**
 
+---
 
-<h2 style='color:blue'>About <span style='color:green'>Me</span>:</h2>
+## 🎯 About Me
 
-### 🧑‍💻 <samp>&gt; I'm <a href="https://github.com/ritartha" target="_blank">Rey Dreamer (aka Ken Marques)</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20"> </samp>
-<div>
-<h2>On a journey to be more and more creative each day </h2><br>
-<img src="https://img.icons8.com/?size=100&id=69486&format=png&color=000000" width = "50">From Second Life <br>
-  <img src="https://img.icons8.com/?size=100&id=qyRpAggnV0zH&format=png&color=000000" width="50" /> ⇨ <a href='https://mail.google.com/mail/u/0/#inbox'>anyahritvik@gmail.com</a> <br>
+I'm on a journey to become more creative every single day. Based in 🇮🇳 **India**, I'm passionate about turning ideas into innovative solutions through code and technology.
 
-## 🇮🇳🇮🇳🇮🇳🇮🇳🇮🇳
+📧 **Contact:** [anyahritvik@gmail.com](mailto:anyahritvik@gmail.com)
+
+---
+
+## 💻 Technical Skills
+
+<div align="center">
+
+| Category | Technologies |
+|----------|---------------|
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) |
+| **Hardware** | ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22082?style=for-the-badge&logo=raspberry-pi&logoColor=white) |
+
 </div>
 
+---
 
-<hr>
+## 🚀 My Interests
 
+- 🐍 **Python Development** - Building robust applications
+- ⚡ **Embedded Systems** - Arduino & Raspberry Pi projects
+- 🎨 **Web Development** - React & modern frontend technologies
+- 🤖 **IoT Solutions** - Connecting the physical and digital worlds
 
-<h2 style='color:blue'>Favs:</h2>
-<div>
-<img src="https://img.icons8.com/?size=100&id=69486&format=png&color=000000" width = "48"><br>  
-<img src="https://img.icons8.com/color/48/000000/python--v1.png"/>
-<img src="https://img.icons8.com/fluency/48/000000/matlab.png"/>
-<img src="https://img.icons8.com/color/48/000000/arduino.png"/>
-<img src="https://img.icons8.com/color/48/000000/raspberry-pi.png"/>
-<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
-<img src="https://img.icons8.com/nolan/48/react-native.png"/>
+---
+
+## 📊 GitHub Statistics
+
+![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=anyahritvik.id)
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[📧 Email](mailto:anyahritvik@gmail.com) • [💼 GitHub](https://github.com/anyahritvik) • [🌐 Portfolio](#)
+
 </div>
-<hr>
 
-<img align="left" alt="GIF" src="https://github.com/Gapur/Gapur/blob/main/assets/coding.gif?raw=true" width="450" height="318" />
+---
 
+<div align="center">
 
-<hr>
-<br>
+**Thank you for visiting! Feel free to explore my projects and reach out for collaboration.** 🙏❤️
 
-<hr>
-
-![isitors](https://visitor-badge.glitch.me/badge?page_id=anyahritvik.id)
-<br>
-Thank You For Visiting.🙏❤️️
-<!--
-<img align="right" alt="GIF" src="https://github.com/ritartha/ritartha/blob/main/icons8-download.gif" height=auto width='20'/>
-</p>
-
-
-  <p align="right">  
-   <a href="https://drive.google.com/uc?export=view&id=17i8padf5lDuR0w0Om3ZzxWOK6xAotLTy">
-      <img align="right" alt="GIF" src="https://github.com/ritartha/ritartha/blob/main/icons8-download.gif" height=auto width='20'/>
-      <img alt="My Resume" src="https://github.com/ritartha/ritartha/blob/main/clipart3085721.png" height=auto width='20' />
-    </a></p> -->
+</div>
