@@ -158,7 +158,26 @@
 
 </div>
 
-------
-Credit: [Rey Dreamer](https://github.com/anyahritvik)
 
-Last Edited on: 30/10/2025
+<div align="center">
+
+### ✨ Made with 💜 by [Rey Dreamer](https://github.com/anyahritvik)
+
+<img src="https://img.shields.io/badge/Thanks_for_visiting!-Come_back_soon-blueviolet?style=for-the-badge" alt="Thanks"/>
+
+<br>
+
+<img src="https://img.shields.io/github/followers/anyahritvik?style=social" alt="Followers"/> 
+<img src="https://img.shields.io/github/stars/anyahritvik?style=social" alt="Stars"/>
+
+<br>
+
+**Last Updated:** *October 30, 2025* | **Status:** *Always Learning* 🚀
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Happy%20Coding!&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=65" alt="Footer Wave"/>
+
+</div>
+
+</div>
