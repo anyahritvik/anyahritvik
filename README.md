@@ -81,16 +81,13 @@
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" title="HTML"/> 
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" alt="css" title="CSS"/>  
     </kbd>
-    <kbd>
-    <br>
-    <kbd>
+ <kbd>
       <kbd>Automation, Data Science & AI</kbd>
       <br>
       <br>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" title="Numpy"/>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" title="Pandas"/>
       <img width="30px" src="https://img.icons8.com/color/48/tensorflow.png" alt="chatgpt" title="Tensorflow"/>
-    </kbd>
     </kbd>
     <kbd>
       <kbd>Design & 3D Modelling Tools</kbd>
