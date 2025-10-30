@@ -40,11 +40,11 @@
  * @param {string} location - Home, Second Life, Linden Labs.
  * @param {string} languagues - English, Hindi, Gibberish😆.
  * @param {string} jobTitle - Builder.
- * @param {string} specialization - Scripting, 3D Modelling & Hopping 🦘.
- * @param {string} hobbies - Exploring.
- * @param {string} education - M.Tech .
- * @param {string} approachable - No usually.
- * @param {string} stength - My Queenzo.
+ * @param {string} Second Life specialization - Scripting, 3D Modelling 🦘.
+ * @param {string} hobbies - Hopping & Learning.
+ * @param {string} education - M.Tech.
+ * @param {string} approachable - Usually No.
+ * @param {string} strength - My Fam.
  * @param {string} weakness - Introv...😶.
  *
  * @throws {Punch} To any and all bugs.
