@@ -144,13 +144,13 @@
 ## 🌐 Connect With Me
 
 <div align="center">
-  <a href="https://secondlife.com/" target="_blank">
+  <a href="secondlife:///app/agent/5dc4a3e7-2bfe-4e67-9578-47214f879985/about" target="_blank">
     <img src="https://img.shields.io/badge/Second_Life-0099FF?style=for-the-badge&logo=secondlife&logoColor=white" alt="Second Life"/>
   </a>
-  <a href="https://www.flickr.com/" target="_blank">
+  <a href="https://www.flickr.com/photos/63925333@N05/" target="_blank">
     <img src="https://img.shields.io/badge/Flickr-FF0084?style=for-the-badge&logo=flickr&logoColor=white" alt="Flickr"/>
   </a>
-  <a href="https://www.primfeed.com/" target="_blank">
+  <a href="[https://www.primfeed.com/](https://www.primfeed.com/ken.marques)" target="_blank">
     <img src="https://img.shields.io/badge/Primfeed-00C853?style=for-the-badge&logo=rss&logoColor=white" alt="Primfeed"/>
   </a>
   <a href="https://discord.com/" target="_blank">
