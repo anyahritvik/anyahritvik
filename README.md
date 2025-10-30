@@ -1,3 +1,6 @@
+  <div align=center>
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=VT323&size=35&duration=3500&pause=300&color=6A0572&center=true&vCenter=true&width=500&lines=Hey%2C+I+am+Rey+Dreamer;Welcome+to+My+GitHub+Profile" alt="Typing SVG" /></a>
+  </div>
 <p align = "center">
 	<img src = "https://komarev.com/ghpvc/?username=anyahritvik&style=plastic&color=blueviolet" alt = "Profile Views"/>
 </p>
@@ -17,9 +20,7 @@
   <div align=center>
       <img height="200" alt="Avatar photo of RD" src="https://github.com/anyahritvik/anyahritvik/blob/main/Iconarchive-Robot-Avatar-Yellow-5-Minion.512.png" alt="Avatar photo of RD">
   </div>
-  <div align=center>
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=VT323&size=35&duration=3500&pause=300&color=6A0572&center=true&vCenter=true&width=500&lines=Hey%2C+I+am+Rey+Dreamer;Welcome+to+My+GitHub+Profile" alt="Typing SVG" /></a>
-  </div>
+
 </div>
 
 <details>
