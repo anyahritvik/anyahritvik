@@ -162,11 +162,10 @@
 ### ✨ Made with 💜 by [Rey Dreamer](https://github.com/anyahritvik)
 
 <img src="https://img.shields.io/badge/Thanks_for_visiting!-Come_back_soon-blueviolet?style=for-the-badge" alt="Thanks"/>
+<br>
 <p align = "center">
 	<img src = "https://komarev.com/ghpvc/?username=anyahritvik&style=plastic&color=blueviolet" alt = "Profile Views"/>
 </p>
-<br>
-
 <img src="https://img.shields.io/github/followers/anyahritvik?style=social" alt="Followers"/> 
 <img src="https://img.shields.io/github/stars/anyahritvik?style=social" alt="Stars"/>
 
