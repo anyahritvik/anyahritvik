@@ -122,7 +122,7 @@
   <br>
   <blockquote>
     “The mind is everything. What you think, you become”
-    <br><strong> <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"  alt="jupiter" title="Jupyter"/> Buddha</strong>
+    <br><strong> <img width="30px" src="https://img.icons8.com/external-icongeek26-outline-gradient-icongeek26/64/external-buddha-buddhism-icongeek26-outline-gradient-icongeek26.png"  alt="jupiter" title="Jupyter"/></strong>
   </blockquote>
 </details>
 
