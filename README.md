@@ -38,7 +38,7 @@
  * @constructor
  * @param {string} name - Rey Dreamer(Ken Marques)
  * @param {string} location - Home, Second Life, Linden Labs.
- * @param {string} languagues - English, Hindi, Gibberish😆.
+ * @param {string} languagues - English, Hindi, Bengali & Gibberish😆.
  * @param {string} jobTitle - Builder.
  * @param {string} Second Life specialization - Scripting, 3D Modelling 🦘.
  * @param {string} hobbies - Hopping & Learning.
