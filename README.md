@@ -1,9 +1,7 @@
   <div align=center>
       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=VT323&size=35&duration=3500&pause=300&color=6A0572&center=true&vCenter=true&width=500&lines=Hey%2C+I+am+Rey+Dreamer;Welcome+to+My+GitHub+Profile" alt="Typing SVG" /></a>
   </div>
-<p align = "center">
-	<img src = "https://komarev.com/ghpvc/?username=anyahritvik&style=plastic&color=blueviolet" alt = "Profile Views"/>
-</p>
+
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
@@ -164,7 +162,9 @@
 ### ✨ Made with 💜 by [Rey Dreamer](https://github.com/anyahritvik)
 
 <img src="https://img.shields.io/badge/Thanks_for_visiting!-Come_back_soon-blueviolet?style=for-the-badge" alt="Thanks"/>
-
+<p align = "center">
+	<img src = "https://komarev.com/ghpvc/?username=anyahritvik&style=plastic&color=blueviolet" alt = "Profile Views"/>
+</p>
 <br>
 
 <img src="https://img.shields.io/github/followers/anyahritvik?style=social" alt="Followers"/> 
