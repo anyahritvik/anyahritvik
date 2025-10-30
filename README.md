@@ -99,8 +99,8 @@
       <img width="30px" src="https://img.icons8.com/color/48/blender-3d.png" alt="bash" title="Blender"/>
       <img width="30px" src="https://img.icons8.com/nolan/64/substance-painter.png" alt="vim" title="Substance Painter"/>
 	  <img width="30px" src="https://img.icons8.com/color/48/zbrush.png" alt="vim" title="ZBrush"/>
-	  <img width="30px" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat&logo=adobe-illustrator&logoColor=white" alt="illustrator" title="Adobe Illustrator"/>
-	 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="photoshop" title="Adobe Photoshop"/>
+	  <img width="30px" src="https://img.icons8.com/color/48/adobe-illustrator--v1.png" alt="vim" title="Adobe Illustrator"/>
+	 <img width="30px" src="https://img.icons8.com/color/48/adobe-photoshop--v1.png" alt="vim" title="Adobe Photoshop"/>
     </kbd>
     <kbd>
       <kbd>Tools</kbd>
@@ -138,6 +138,25 @@
 </details>
 
 </details>
+
+<br>
+
+## 🌐 Connect With Me
+
+<div align="center">
+  <a href="https://secondlife.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Second_Life-0099FF?style=for-the-badge&logo=secondlife&logoColor=white" alt="Second Life"/>
+  </a>
+  <a href="https://www.flickr.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Flickr-FF0084?style=for-the-badge&logo=flickr&logoColor=white" alt="Flickr"/>
+  </a>
+  <a href="https://www.primfeed.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Primfeed-00C853?style=for-the-badge&logo=rss&logoColor=white" alt="Primfeed"/>
+  </a>
+  <a href="https://discord.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+</div>
 
 </div>
 
