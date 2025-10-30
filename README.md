@@ -92,9 +92,10 @@
       <br>
       <br>
       <img width="30px" src="https://img.icons8.com/color/48/blender-3d.png" alt="bash" title="Blender"/>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" alt="vim" title="Substance Painter"/>
-	  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" alt="vim" title="Adobe Illustrator"/>
-	 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" alt="vim" title="Adobe Photoshop"/>
+      <img width="30px" src="https://img.icons8.com/nolan/64/substance-painter.png" alt="vim" title="Substance Painter"/>
+	  <img width="30px" src="https://img.icons8.com/color/48/zbrush.png" alt="vim" title="ZBrush"/>
+	  <img width="30px" src="https://img.icons8.com/color/48/adobe-illustrator--v1.png" alt="vim" title="Adobe Illustrator"/>
+	 <img width="30px" src="https://img.icons8.com/color/48/adobe-photoshop--v1.png" alt="vim" title="Adobe Photoshop"/>
     </kbd>
     <kbd>
       <kbd>Tools</kbd>
