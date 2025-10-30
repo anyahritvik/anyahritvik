@@ -153,7 +153,7 @@
   <a href="[https://www.primfeed.com/](https://www.primfeed.com/ken.marques)" target="_blank">
     <img src="https://img.shields.io/badge/Primfeed-00C853?style=for-the-badge&logo=rss&logoColor=white" alt="Primfeed"/>
   </a>
-  <a href="https://discord.com/" target="_blank">
+  <a href="https://discord.com/users/654770503508295722" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
 </div>
