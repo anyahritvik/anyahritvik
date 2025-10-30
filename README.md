@@ -150,7 +150,7 @@
   <a href="https://www.flickr.com/photos/63925333@N05/" target="_blank">
     <img src="https://img.shields.io/badge/Flickr-FF0084?style=for-the-badge&logo=flickr&logoColor=white" alt="Flickr"/>
   </a>
-  <a href="[https://www.primfeed.com/](https://www.primfeed.com/ken.marques)" target="_blank">
+  <a href="https://www.primfeed.com/ken.marques" target="_blank">
     <img src="https://img.shields.io/badge/Primfeed-00C853?style=for-the-badge&logo=rss&logoColor=white" alt="Primfeed"/>
   </a>
   <a href="https://discord.com/users/654770503508295722" target="_blank">
