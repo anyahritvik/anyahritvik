@@ -100,7 +100,7 @@
 	 <img width="30px" src="https://img.icons8.com/color/48/adobe-photoshop--v1.png" alt="vim" title="Adobe Photoshop"/>
     </kbd>
     <kbd>
-      <kbd>Tools</kbd>
+      <kbd>My Fav IDEs</kbd>
       <br>
       <br>
       <img width="30" src="https://img.icons8.com/fluency/48/spyder-ide-5.png" alt="Xcode" title="Spyder"/>
