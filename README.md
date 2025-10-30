@@ -144,7 +144,7 @@
 ## 🌐 Connect With Me
 
 <div align="center">
-  <a href="secondlife:///app/agent/5dc4a3e7-2bfe-4e67-9578-47214f879985/about" target="_blank">
+  <a href="https://world.secondlife.com/resident/5dc4a3e7-2bfe-4e67-9578-47214f879985" target="_blank">
     <img src="https://img.shields.io/badge/Second_Life-0099FF?style=for-the-badge&logo=secondlife&logoColor=white" alt="Second Life"/>
   </a>
   <a href="https://www.flickr.com/photos/63925333@N05/" target="_blank">
