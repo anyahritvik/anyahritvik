@@ -35,6 +35,7 @@
  * Represents me.
  *
  * @constructor
+ * @param {string} name - Rey Dreamer(Ken Marques)
  * @param {string} location - Home, Second Life, Linden Labs.
  * @param {string} languagues - English, Hindi, Gibberish😆.
  * @param {string} jobTitle - Builder.
