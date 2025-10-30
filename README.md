@@ -9,7 +9,7 @@
 
 <details>
 <summary>
-  <img src="https://img.shields.io/badge/👤_Open_Profile-6A0572?style=for-the-badge&logoColor=white" alt="Open Profile"/>
+  <img src="https://img.shields.io/badge/👤_Open_Profile-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Open Profile"/>
 </summary>
 
 <br>
@@ -24,7 +24,7 @@
 
 <details>
 <summary>
-  <img src="https://img.shields.io/badge/📖_About_Me-FF6B6B?style=for-the-badge&logoColor=white" alt="About Me"/>
+  <img src="https://img.shields.io/badge/📖_About_Me-3B82F6?style=for-the-badge&logo=readme&logoColor=white" alt="About Me"/>
 </summary>
 
 [//]: # (You must have a lf before the markdown element when inside a block for it to work: https://stackoverflow.com/questions/29368902/how-can-i-wrap-my-markdown-in-an-html-div)
@@ -59,7 +59,7 @@
 
 <details>
 <summary>
-  <img src="https://img.shields.io/badge/🛠️_Tools_&_Technologies-4ECDC4?style=for-the-badge&logoColor=white" alt="Tools"/>
+  <img src="https://img.shields.io/badge/🛠️_Tools_&_Technologies-10B981?style=for-the-badge&logo=stackshare&logoColor=white" alt="Tools"/>
 </summary>
 
 <br>
@@ -99,8 +99,8 @@
       <img width="30px" src="https://img.icons8.com/color/48/blender-3d.png" alt="bash" title="Blender"/>
       <img width="30px" src="https://img.icons8.com/nolan/64/substance-painter.png" alt="vim" title="Substance Painter"/>
 	  <img width="30px" src="https://img.icons8.com/color/48/zbrush.png" alt="vim" title="ZBrush"/>
-	  <img width="30px" src="https://img.icons8.com/color/48/adobe-illustrator--v1.png" alt="vim" title="Adobe Illustrator"/>
-	 <img width="30px" src="https://img.icons8.com/color/48/adobe-photoshop--v1.png" alt="vim" title="Adobe Photoshop"/>
+	  <img width="30px" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat&logo=adobe-illustrator&logoColor=white" alt="illustrator" title="Adobe Illustrator"/>
+	 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="photoshop" title="Adobe Photoshop"/>
     </kbd>
     <kbd>
       <kbd>Tools</kbd>
@@ -116,7 +116,7 @@
 
 <details>
 <summary>
-  <img src="https://img.shields.io/badge/📊_GitHub_Stats-95E1D3?style=for-the-badge&logoColor=white" alt="GitHub Stats"/>
+  <img src="https://img.shields.io/badge/📊_GitHub_Stats-F59E0B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Stats"/>
 </summary>
 
 <br>
@@ -127,7 +127,7 @@
 
 <details>
 <summary>
-  <img src="https://img.shields.io/badge/💭_Quote-F38181?style=for-the-badge&logoColor=white" alt="Quote"/>
+  <img src="https://img.shields.io/badge/💭_Inspirational_Quote-EC4899?style=for-the-badge&logo=inspircd&logoColor=white" alt="Quote"/>
 </summary>
 
 <br>
